@@ -1,6 +1,6 @@
 <template lang="pug">
     div
-      el-button(type="primary" @click="tab") New tab 
+      el-button(type="primary" @click="tab") lockbox
 </template>
 <script>
   export default {

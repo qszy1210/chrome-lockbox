@@ -1,6 +1,7 @@
 # chrome-lockbox
-a chrome extension that saves your secret stuff
+a chrome extension that saves your stuff
 
+1. 存储网址信息
 
 ## step1
 
